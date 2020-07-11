@@ -1,2 +1,2 @@
 # Load encrypted image
-Load encrypted image using Glide library in android application.
+Load encrypted image from asset folder or device storage using Glide library in android application.
